@@ -2,7 +2,7 @@
   "name": "mtrtheme",
   "displayName": "Matronator's Theme",
   "description": "Matronator's Theme for VSCode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -29,5 +29,14 @@
   "homepage": "https://github.com/matronator/mtr-theme-vscode",
   "license": "MIT",
   "publisher": "matronator",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#820000",
+    "theme": "dark"
+  },
+  "preview": false,
+  "readme": "README.md",
+  "sponsor": {
+    "url": "https://sponsor.matronator.cz"
+  }
 }
