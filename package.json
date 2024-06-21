@@ -28,5 +28,6 @@
   },
   "homepage": "https://github.com/matronator/mtr-theme-vscode",
   "license": "MIT",
-  "publisher": "matronator"
+  "publisher": "matronator",
+  "icon": "icon.png"
 }
