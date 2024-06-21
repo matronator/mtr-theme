@@ -27,5 +27,6 @@
     "url": "https://matronator.cz"
   },
   "homepage": "https://github.com/matronator/mtr-theme-vscode",
-  "license": "MIT"
+  "license": "MIT",
+  "publisher": "matronator"
 }
