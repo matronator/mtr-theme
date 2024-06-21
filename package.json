@@ -17,5 +17,15 @@
         "path": "./themes/matronator-s-theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matronator/mtr-theme-vscode.git"
+  },
+  "author": {
+    "name": "Matronator",
+    "url": "https://matronator.cz"
+  },
+  "homepage": "https://github.com/matronator/mtr-theme-vscode",
+  "license": "MIT"
 }
